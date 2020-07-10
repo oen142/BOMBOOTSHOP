@@ -18,11 +18,26 @@
 
 ## 환경
 - DevOps
+    - MariaDB
+        - AWS RDS
+    - Jenkins
+    - Docker
+    - Kubernetes
+    - AWS EC2
+    - AWS ELB
+    - AWS REDIS
+    - GIT
+    - nGrinder
 - WEB/BE
-    - SpringBoot 
-    - SpringMVC
-    - SpringSecurity
-    - SpringCloud
+    - SpringFramework
+        - SpringBoot 2.2.x
+        - SpringSecurity
+        - SpringCloudAws
+    - Gradle    
+    - ORM
+        - JPA
+    - Lombok
+   
 - WEB/FE
     - 리액트
     
