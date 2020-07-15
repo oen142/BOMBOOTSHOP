@@ -12,6 +12,7 @@
 - DevOps
     - MariaDB
         - AWS RDS
+        - ElastiCache
     - Jenkins
     - Docker
     - Kubernetes
